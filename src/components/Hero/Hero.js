@@ -13,7 +13,7 @@ const Hero = (props) => (
 		<LeftSection>
 			<SectionTitle main center>
 				Welcome To <br />
-				Ram Bahadur's Portfolio
+				Hari Bahadur's Portfolio
 			</SectionTitle>
 			<SectionText>
 				Ram Bahadur is an aspiring web developer from Nepal, He loves coding as
